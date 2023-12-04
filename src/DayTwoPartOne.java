@@ -12,7 +12,7 @@ public class DayTwoPartOne {
 
 
         List<String> allLines;
-        String filePath = "C:\\Users\\aleja\\IdeaProjects\\AdventoOfCode\\inputFiles\\dayTwo\\input.txt";
+        String filePath = "inputFiles\\dayTwo\\input.txt";
         final int RED = 12; //Should be static outside of main but fak it no time
         final int GREEN = 13;
         final int BLUE = 14;

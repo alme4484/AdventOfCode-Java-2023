@@ -8,7 +8,7 @@ public class DayOnePartTwo {
 
         List<String> allLines;
         int calibrationValue = 0;
-        String filePath = "C:\\Users\\aleja\\IdeaProjects\\AdventoOfCode\\inputFiles\\dayOne\\input.txt";  //path/to/your/textFile.txt
+        String filePath = "inputFiles\\dayOne\\input.txt";  //path/to/your/textFile.txt
 
         try {
             allLines = Files.readAllLines(Path.of(filePath));
