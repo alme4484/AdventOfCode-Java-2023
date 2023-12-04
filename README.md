@@ -10,3 +10,5 @@ It is important to note that this code is by no means a masterpiece, and is far 
 | Day 1  | ✅  |
 | Day 2  | ✅ (50/50) |
 | Day 3  | ❌  |
+
+My main focus will be: as long as it works, it works. 😂
